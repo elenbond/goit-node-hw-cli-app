@@ -9,7 +9,7 @@ To run this app use commands below:
 
 To see the result of execution the commands follow these links:
 
-1. Contacts list:
-2. Contact by id:
-3. Added contact:
+1. Contacts list: https://monosnap.com/file/8X2sRbedHOw0KpF2n74NFhsY3K7Qqq
+2. Contact by id: https://monosnap.com/file/17MXKj8cnAJEsWHE5S5S3GNlaQ97YL
+3. Added contact: 
 4. Deleted contact:
